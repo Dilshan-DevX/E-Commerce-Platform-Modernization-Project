@@ -1,6 +1,6 @@
 <div align="center">
 
-![TechMart Online Banner](docs/screenshots/banner.png)
+![TechMart Online Banner](docs/screenshots/banner01.png)
 
 # 🛒 TechMart Online
 
